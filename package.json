@@ -1,5 +1,5 @@
 {
-  "homepage":"https://deepkamboj07.github.io/portfolio",
+  "homepage": "https://deepkamboj07.github.io/portfolio",
   "name": "deepanshu_portfolio",
   "private": true,
   "version": "0.0.0",
@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "vite build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
@@ -17,6 +17,7 @@
     "@react-three/drei": "^9.97.0",
     "@react-three/fiber": "^8.15.16",
     "framer-motion": "^11.0.3",
+    "gh-pages": "^6.1.1",
     "lucide-react": "^0.321.0",
     "maath": "^0.10.7",
     "react": "^18.2.0",
