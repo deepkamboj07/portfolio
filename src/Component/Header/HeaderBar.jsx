@@ -1,6 +1,6 @@
 import SideNavigation from "./SideNavigation";
-import deepLogo from '../../assets/logo1.jpg'
-import deepProfile from '../../assets/profile.jpg'
+import deepLogo from '../../../assets/logo1.jpg'
+import deepProfile from '../../../assets/profile.jpg'
 import { ChevronRightIcon, InboxStackIcon, MagnifyingGlassIcon, PlusIcon, StopCircleIcon } from "@heroicons/react/24/solid";
 import SearchBar from "./SearchBar";
 

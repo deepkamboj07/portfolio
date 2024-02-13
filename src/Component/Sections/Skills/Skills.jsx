@@ -1,7 +1,7 @@
 import { Backend_skill, Frontend_skill, Full_stack, Other_skill } from "../../../constants/projectFile"
 import StartCanvas from "../../Background/StartCanvas"
 import SkillsDataProvider from "./SkillsDataProvider"
-import videoSkills from '../../../assets/skills/cards-video.webm'
+import videoSkills from '../../../../assets/cards-video.webm'
 import {motion} from 'framer-motion'
 import { slideInFromLeft, slideInFromTop } from "../../../utils/motion"
 import { SparklesIcon } from "lucide-react"

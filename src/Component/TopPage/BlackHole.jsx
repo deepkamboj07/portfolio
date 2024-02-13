@@ -1,4 +1,4 @@
-import blackholeVideo from '../../assets/blackhole.webm' 
+import blackholeVideo from '../../../assets/blackhole.webm' 
 const BlackHole=()=>{
     return(
             <div className='absolute w-full h-full top-0 z-0'>

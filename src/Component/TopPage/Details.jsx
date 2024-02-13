@@ -1,7 +1,7 @@
 import {motion} from 'framer-motion'
 import { slideInFromLeft, slideInFromRight, slideInFromTop } from '../../utils/motion';
 import {SparklesIcon} from '@heroicons/react/24/solid'
-import mainIcon from '../../assets/mainIconsdark.svg' 
+import mainIcon from '../.././../assets/mainIconsdark.svg' 
 const Details=()=>{
     return(
         <motion.div
