@@ -261,7 +261,7 @@ export const Skill_data = [
   ];
 
   import s1 from "../../assets/ReactNative .png";
-  import s2 from "../../assets/Figma.png";
+  import s2 from '../../assets/figma.png';
   import s3 from "../../assets/docker.webp";
 
   
