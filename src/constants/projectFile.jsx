@@ -1,8 +1,8 @@
-import image1 from '../../assets/projects/1.png'
-import image2 from '../../assets/projects/2.png'
-import image3 from '../../assets/projects/3.jpg'
-import image4 from '../../assets/projects/4.jpg'
-import image5 from '../../assets/projects/5.png'
+import image1 from '../../assets/1.png'
+import image2 from '../../assets/2.png'
+import image3 from '../../assets/3.jpg'
+import image4 from '../../assets/4.jpg'
+import image5 from '../../assets/5.png'
 
 export const projects=[
     {
@@ -148,14 +148,14 @@ export const Skill_data = [
   
   
   
-  import f1 from "../../assets/skills/html.png";
-  import f2 from "../../assets/skills/css.png";
-  import f3 from "../../assets/skills/js.png";
-  import f4 from "../../assets/skills/tailwind.png";
-  import f5 from "../../assets/skills/react.png";
-  import f6 from "../../assets/skills/redux.png";
-  import f7 from "../../assets/skills/ts.png";
-  import f8 from "../../assets/skills/next.png";
+  import f1 from "../../assets/html.png";
+  import f2 from "../../assets/css.png";
+  import f3 from "../../assets/js.png";
+  import f4 from "../../assets/tailwind.png";
+  import f5 from "../../assets/react.png";
+  import f6 from "../../assets/redux.png";
+  import f7 from "../../assets/ts.png";
+  import f8 from "../../assets/next.png";
   export const Frontend_skill = [
     {
       skill_name: "Html 5",
@@ -207,13 +207,13 @@ export const Skill_data = [
     },
   ];
 
-  import b1 from "../../assets/skills/node-js.png";
-  import b2 from "../../assets/skills/express.png";
-  import b3 from "../../assets/skills/mongodb.png";
-  import b4 from "../../assets/skills/Firebase.png";
-  import b5 from "../../assets/skills/postger.png";
-  import b6 from "../../assets/skills/mysql.png";
-  import b7 from "../../assets/skills/graphql.png";
+  import b1 from "../../assets/node-js.png";
+  import b2 from "../../assets/express.png";
+  import b3 from "../../assets/mongodb.png";
+  import b4 from "../../assets/Firebase.png";
+  import b5 from "../../assets/postger.png";
+  import b6 from "../../assets/mysql.png";
+  import b7 from "../../assets/graphql.png";
   
   export const Backend_skill = [
     {
@@ -260,9 +260,9 @@ export const Skill_data = [
     },
   ];
 
-  import s1 from "../../assets/skills/ReactNative .png";
-  import s2 from "../../assets/skills/Figma.png";
-  import s3 from "../../assets/skills/docker.webp";
+  import s1 from "../../assets/ReactNative .png";
+  import s2 from "../../assets/Figma.png";
+  import s3 from "../../assets/docker.webp";
 
   
   export const Full_stack = [
@@ -289,7 +289,7 @@ export const Skill_data = [
   ];
   
   
-  import o1 from '../../assets/skills/go.png'
+  import o1 from '../../assets/go.png'
   export const Other_skill = [
     {
       skill_name: "Go",

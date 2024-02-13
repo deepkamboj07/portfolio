@@ -4,7 +4,7 @@ import { projects } from "../../constants/projectFile";
 import ProjectItem from "../Item/ProjectItem";
 import StartCanvas from '../Background/StartCanvas';
 import BlackHole from '../TopPage/BlackHole';
-import videoSkills from '../../assets/skills/cards-video.webm'
+import videoSkills from '../../../assets/cards-video.webm'
 
 const Projects=()=>{
     return(

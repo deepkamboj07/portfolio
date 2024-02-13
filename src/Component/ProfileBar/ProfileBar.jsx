@@ -1,6 +1,6 @@
 import { EyeDropperIcon, LinkIcon, MapPinIcon } from '@heroicons/react/24/outline';
-import profile from '../../assets/profile.jpg'
-import achive from '../../assets/achive.png'
+import profile from '../../../assets/profile.jpg'
+import achive from '../../../assets/achive.png'
 import { Linkedin } from 'lucide-react';
 const ProfileBar=()=>{
     return(
